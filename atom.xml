@@ -23,7 +23,7 @@
     <published>2025-11-12T10:13:04.000Z</published>
     <updated>2025-11-12T10:13:04.000Z</updated>
     
-    <content type="html"><![CDATA[<h2><span id="这是一篇文章">这是一篇文章</span></h2>]]></content>
+    <content type="html"><![CDATA[<h2 tabindex="-1"><span id="这是一篇文章">这是一篇文章</span></h2>]]></content>
     
     
     <summary type="html">简短描述</summary>

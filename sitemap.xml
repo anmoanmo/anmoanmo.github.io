@@ -47,60 +47,6 @@
   </url>
   
   <url>
-    <loc>https://www.castorice.xin/engineering/log/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/engineering/optimization/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/engineering/frameworks/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/engineering/env/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/engineering/design/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/engineering/projects/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.castorice.xin/research/log/</loc>
     
     <lastmod>2025-11-12</lastmod>
@@ -155,60 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.castorice.xin/algorithm/contest/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/algorithm/math/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/algorithm/graph/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/algorithm/dp/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/algorithm/basic/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/algorithm/data-structure/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.castorice.xin/others/</loc>
     
     <lastmod>2025-11-12</lastmod>
@@ -218,25 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.castorice.xin/engineering/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.castorice.xin/research/</loc>
-    
-    <lastmod>2025-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.castorice.xin/algorithm/</loc>
     
     <lastmod>2025-11-12</lastmod>
     
